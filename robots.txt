@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.mofadaohang.com/sitemap.xml
